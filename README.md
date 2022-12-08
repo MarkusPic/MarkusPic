@@ -17,6 +17,9 @@ Some smaller projects (mainly matplotlib plots):
 - moody_chart
 - head-loss-nomogram
 
+Also have a look at my other repositories on [gitlab](https://gitlab.com/markuspichler).
+And see my published ready to use pacakges on [pypi](https://pypi.org/user/markusp/)
+
 <!--
 **MarkusPic/MarkusPic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
