@@ -21,6 +21,8 @@ Also have a look at my other repositories on [gitlab](https://gitlab.com/markusp
 
 And see my published ready to use pacakges on [pypi](https://pypi.org/user/markusp/).
 
+Matrix Messenger: `@00123f9f53a01de2.tugraz.at:chat.tugraz.at`
+
 <!--
 **MarkusPic/MarkusPic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
