@@ -11,6 +11,7 @@ Some of my projects are:
 - SWMM_xsections_shape_generator
 - intensity_duration_frequency_analysis
 - swmm_api (main repository on gitlab)
+- swmm-model-simplification
 
 Some smaller projects (mainly matplotlib plots):
 - monthly-calendar-plot
@@ -22,6 +23,8 @@ Also have a look at my other repositories on [gitlab](https://gitlab.com/markusp
 And see my published ready to use pacakges on [pypi](https://pypi.org/user/markusp/).
 
 Matrix Messenger: `@00123f9f53a01de2.tugraz.at:chat.tugraz.at`
+
+[![BuyMeACoffee](https://raw.githubusercontent.com/pachadotdev/buymeacoffee-badges/main/bmc-donate-yellow.svg)](https://www.buymeacoffee.com/markusp)
 
 <!--
 **MarkusPic/MarkusPic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
